@@ -11,8 +11,8 @@
 ## 三、一些说明
 
 ### 3.1 文件
-- combined.csv                  直接通过接口回去到的 A 股数据，具体过程小组作业已有，不赘述
-- mts_lstm.ipynb                本文件，为作业的主体
+- combined.csv                  直接通过接口回去到的 A 股数据，具体过程不赘述
+- mts_lstm.ipynb                本文件
 - mts_lstm.py                   代码文件
 - Stock_Price_Prediction.png    效果图
 - mts_lstm.pkl                  模型文件

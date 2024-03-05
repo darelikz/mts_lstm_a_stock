@@ -30,4 +30,4 @@
 - 灵活的构建输入层 (LSTM(50,return_sequences=True,input_shape=(30,5))) 
 
 
-# 四、具体代码
+# 四、具体代码见文件
